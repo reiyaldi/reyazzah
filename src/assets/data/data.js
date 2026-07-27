@@ -23,9 +23,9 @@ export const data = {
     time: {
         marriage: {
             year: '2030',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            month: 'Mei',
+            date: '28',
+            day: 'Rabu',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
@@ -33,15 +33,15 @@ export const data = {
         },
         reception: {
             year: '2030',
-            month: 'November',
-            date: '14',
+            month: 'Mei',
+            date: '29',
             day: 'Kamis',
             hours: {
                 start: '11.00',
                 finish: 'Selesai'
             }
         },
-        address: 'PRANCIS'
+        address: 'BINGUNG MAU NIKAH DIMANA KITA SAYANG ?'
     },
 
     link: {
